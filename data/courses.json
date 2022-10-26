@@ -1,0 +1,27 @@
+[
+    {
+      "id": "01",
+      "name": "Fullstack Web Development"
+    },
+    {
+      "id": "02",
+      "name": "Data Science"
+    },
+    {
+      "id": "03",
+      "name": "Machine-learning"
+    },
+    {
+      "id": "04",
+      "name": "Blockchain"
+    },
+    {
+      "id": "05",
+      "name": "Cybersecurity"
+    },
+    {
+      "id": "06",
+      "name": "Mobile app development"
+    }
+    
+  ]

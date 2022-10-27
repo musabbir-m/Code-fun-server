@@ -7,10 +7,14 @@
         "name": "Fullstack Web Development"
         ,
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_enrolled": 3000 ,
+        
         "total_hour": 57,
         "description": "With this beginner friendly course become a Full-Stack Web Developer with just ONE course. Learn HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps.",
         "level":"Beginner",
+        "total_enrolled": 5000 ,
+        "new_enrolled": 2000,
+        "duration" : "December 1"
+        ,
         "instructor": {
           "name": "Jhankar Mahbub",
           "published_date": "",
@@ -25,10 +29,13 @@
         "name": "Data Science"
         ,
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_enrolled": 2000,
+       
         "total_hour":45 ,
         "description": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
         "level":"Beginner",
+        "total_enrolled": 6000 ,
+        "new_enrolled": 2000,
+        "duration" : "December 10",
         "instructor": {
           "name": "",
           "published_date": "",
@@ -43,10 +50,13 @@
         "name": "Blockchain"
         ,
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_enrolled":1800 ,
+        
         "total_hour":55 ,
         "description": "Learn the key elements of blockchain and Bitcoin in this bestselling video course and accompanying PDF glossary",
         "level":"Intermediate",
+        "total_enrolled": 7000 ,
+        "new_enrolled": 2000,
+        "duration" : "November 3",
         "instructor": {
           "name": "",
           "published_date": "",
@@ -61,10 +71,13 @@
         "name": "Mobile App Development"
         ,
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_enrolled": 2500,
+        
         "total_hour": 42,
         "description": "Learn how to start and grow a mobile app development business. Get up & running in less than 1 week.",
         "level":"Beginer",
+        "total_enrolled": 4000 ,
+        "new_enrolled": 2000,
+        "duration" : "November 5",
         "instructor": {
           "name": "",
           "published_date": "",
@@ -79,10 +92,13 @@
         "name": "Cyber Security"
         ,
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_enrolled": 3000,
+
         "total_hour": 50,
         "description": "Learn Cyber Security concepts such as hacking, malware, firewalls, worms, phishing, encryption, biometrics, BYOD & more",
         "level":"Advance",
+        "total_enrolled": 3000 ,
+        "new_enrolled": 2000,
+        "duration" : "December 2",
         "instructor": {
           "name": "",
           "published_date": "",
@@ -97,10 +113,13 @@
         "name": "Machine Learning"
         ,
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_enrolled":2600 ,
+        
         "total_hour":57 ,
         "description": "Master Machine Learning Algorithms in Python and R from two Data Science experts.",
         "level":"Advance",
+        "total_enrolled": 6000 ,
+        "new_enrolled": 2000,
+        "duration" : "November 15",
         "instructor": {
           "name": "",
           "published_date": "",

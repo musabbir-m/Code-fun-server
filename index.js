@@ -26,6 +26,12 @@ app.get("/allcourses", (req, res) => {
     res.send(singleCourse)
   })
 
+  app.get('premium/:id', (req,res)=>{
+    const id= req.params.id
+    const checkoutDetail= coursedetails.find(course=>course.id===id)
+    res.send(checkoutDetail)
+  })
+
 app.listen(port, ()=>{
     console.log('server running', port);
 })
